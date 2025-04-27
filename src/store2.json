@@ -1,0 +1,103 @@
+[{
+  "FoodCategory": "healthy",
+  "Products": [
+    {
+      "ProductName": "quinoa salad",
+      "Price": 6,
+      "ProductType": "salad",
+      "AvailableAmount": 50
+    },
+    {
+      "ProductName": "vegan wrap",
+      "Price": 7,
+      "ProductType": "wrap",
+      "AvailableAmount": 40
+    }
+  ],
+  "StoreName": "healthy bites",
+  "Stars": 4,
+  "NoOfVotes": 65,
+  "Latitude": 37.99,
+  "StoreLogo": "",
+  "Longitude": 23.75
+}]lad",
+        "AvailableAmount": 100
+      }
+    ],
+    "StoreName": "pizza hut",
+    "Stars": 5,
+    "NoOfVotes": 2,
+    "Latitude": 37.9932963,
+    "StoreLogo": "",
+    "Longitude": 23.733413
+  },
+  {
+    "FoodCategory": "greek",
+    "Products": [
+      {
+        "ProductName": "gyros pork",
+        "Price": 4,
+        "ProductType": "meat",
+        "AvailableAmount": 100
+      },
+      {
+        "ProductName": "souvlaki chicken",
+        "Price": 3.5,
+        "ProductType": "meat",
+        "AvailableAmount": 80
+      }
+    ],
+    "StoreName": "bobos",
+    "Stars": 4,
+    "NoOfVotes": 10,
+    "Latitude": 38,
+    "StoreLogo": "",
+    "Longitude": 23.7
+  },
+  {
+    "FoodCategory": "sushi",
+    "Products": [
+      {
+        "ProductName": "salmon roll",
+        "Price": 8.5,
+        "ProductType": "sushi",
+        "AvailableAmount": 200
+      },
+      {
+        "ProductName": "tuna nigiri",
+        "Price": 9,
+        "ProductType": "sushi",
+        "AvailableAmount": 150
+      }
+    ],
+    "StoreName": "sushi zen",
+    "Stars": 5,
+    "NoOfVotes": 42,
+    "Latitude": 37.98,
+    "StoreLogo": "",
+    "Longitude": 23.72
+  },
+  {
+    "FoodCategory": "healthy",
+    "Products": [
+      {
+        "ProductName": "quinoa salad",
+        "Price": 6,
+        "ProductType": "salad",
+        "AvailableAmount": 50
+      },
+      {
+        "ProductName": "vegan wrap",
+        "Price": 7,
+        "ProductType": "wrap",
+        "AvailableAmount": 40
+      }
+    ],
+    "StoreName": "healthy bites",
+    "Stars": 4,
+    "NoOfVotes": 65,
+    "Latitude": 37.99,
+    "StoreLogo": "",
+    "Longitude": 23.75
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "StoreName": "pizza hut",
+    "Latitude": 37.9932963,
+    "Longitude": 23.733413,
+    "FoodCategory": "pizzeria",
+    "Stars": 5,
+    "NoOfVotes": 2,
+    "StoreLogo": "logos/pizza hut.png",
+    "Products": [
+      {
+        "ProductName": "margarita",
+        "ProductType": "pizza",
+        "AvailableAmount": 5000,
+        "Price": 9.2
+      },
+      {
+        "ProductName": "special",
+        "ProductType": "pizza",
+        "AvailableAmount": 1000,
+        "Price": 12
+      },
+      {
+        "ProductName": "chef’s Salad",
+        "ProductType": "salad",
+        "AvailableAmount": 100,
+        "Price": 5
+      }
+    ]
+  },
+  {
+    "StoreName": "bobos",
+    "Latitude": 38.0,
+    "Longitude": 23.7,
+    "FoodCategory": "greek",
+    "Stars": 4,
+    "NoOfVotes": 10,
+    "StoreLogo": "logos/bobos.png",
+    "Products": [
+      {
+        "ProductName": "gyros pork",
+        "ProductType": "meat",
+        "AvailableAmount": 100,
+        "Price": 4
+      },
+      {
+        "ProductName": "souvlaki chicken",
+        "ProductType": "meat",
+        "AvailableAmount": 80,
+        "Price": 3.5
+      }
+    ]
+  },
+  {
+    "StoreName": "sushi zen",
+    "Latitude": 37.98,
+    "Longitude": 23.72,
+    "FoodCategory": "sushi",
+    "Stars": 5,
+    "NoOfVotes": 42,
+    "StoreLogo": "",
+    "Products": [
+      {
+        "ProductName": "salmon roll",
+        "ProductType": "sushi",
+        "AvailableAmount": 200,
+        "Price": 8.5
+      },
+      {
+        "ProductName": "tuna nigiri",
+        "ProductType": "sushi",
+        "AvailableAmount": 150,
+        "Price": 9
+      }
+    ]
+  },
+  {
+    "StoreName": "healthy bites",
+    "Latitude": 37.99,
+    "Longitude": 23.75,
+    "FoodCategory": "healthy",
+    "Stars": 4,
+    "NoOfVotes": 65,
+    "StoreLogo": "",
+    "Products": [
+      {
+        "ProductName": "quinoa salad",
+        "ProductType": "salad",
+        "AvailableAmount": 50,
+        "Price": 6
+      },
+      {
+        "ProductName": "vegan wrap",
+        "ProductType": "wrap",
+        "AvailableAmount": 40,
+        "Price": 7
+      }
+    ]
+  }
+]
